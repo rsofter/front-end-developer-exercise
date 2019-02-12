@@ -19,7 +19,6 @@ You are building a list of event team members using React.js.
 
 #### For fun / if you want to get crazy
 - Find a way to incorporate Redux (We use it heavily)
-- Find a way to incorporate Radium (We use it heavily)
 - Add animation to the expanding rows
 - Output some location-relative information using the latitude / longitude returned by the API endpoint for each user
 - Add a "loading" indicator for when the users are being fetched
